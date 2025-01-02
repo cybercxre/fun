@@ -3,14 +3,13 @@
     "author": "Synth Labs.",
     "tabs": [
         {
-            "Name": "More Stuff",
+            "Name": "black",
             "Icon": "Atom",
             "Content": [
                 "GET ON THE GROUND NIGGER!",
                 "This nigger just doesnt listen!",
 		"GET AWAY FROM ME STUPID NIGGER",
-		"Stop pissing me off nigger",
-		"Shoot a faggot nigga in the head with a sniper!",
+		"Stop pissing me off nigger",,
 		"Nigga stfu before you get raped",
 		"Im gonna put my dick in your mouth to make you shut up nigger",
 		"Youre a dirty nigger!",
@@ -24,7 +23,6 @@
 		"why cant you niggers just go away",
 		"I miss the old days where i could whip a nigger!",
 		"nigga get your autistic ass tf away from me",
-		"Are you autistic? i rape autistic people.",
 		"Put rat poison in a niggers koolaid!",
 		"nigga imma send you to north korea",
 		"WOAH BABY! MY COCK JUST GREW TO 2 INCHES, THATS A NEW RECORD!",
@@ -53,13 +51,19 @@
 		"stupid nigga playing on a kindle tablet",
 		"woah nigga! calm down."
 		
+		{
+            "Name": "autism",
+            "Icon": "Atom",
+            "Content": [
+		"Shoot a faggot nigga in the head with a sniper!",
+		"Are you autistic? i rape autistic people.",
 		
 		
 		
 		
 		
-		
-		
+		    ]
+		}
             ]
         }
     ]
